@@ -1,0 +1,19 @@
+{
+  "name": "footsketch-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.5.3",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
